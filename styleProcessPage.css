@@ -1,0 +1,797 @@
+.process-page,
+.process-page * {
+  box-sizing: border-box;
+}
+.process-page {
+  background: #0a0a0a;
+  height: 3475px;
+  position: relative;
+  overflow: hidden;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #484e53;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 742px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-483302 {
+  position: absolute;
+  inset: 0;
+}
+.frame-3735264 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 718px;
+  position: absolute;
+  left: 361px;
+  top: 247px;
+}
+.group-96 {
+  flex-shrink: 0;
+  width: 727px;
+  height: 110px;
+  position: static;
+}
+.working-process {
+  color: #dedede;
+  text-align: center;
+  font-family: "Urbanist-Bold", sans-serif;
+  font-size: 75px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 363.5px);
+  top: calc(50% - 152.5px);
+  width: 727px;
+  height: 110px;
+}
+.how-i-combine-design-and-technology-to-create-exceptional-user-experiences {
+  color: #a9a9a9;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 99px;
+}
+.how-i-combine-design-and-technology-to-create-exceptional-user-experiences-span {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.how-i-combine-design-and-technology-to-create-exceptional-user-experiences-span2 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+}
+.group-10470 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 60px;
+  position: relative;
+  overflow: visible;
+}
+.group-483291 {
+  position: absolute;
+  inset: 0;
+}
+.step-02 {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 151px;
+  top: 1095px;
+  width: 147px;
+  height: 26px;
+}
+.at-begin-by-defining-the-goals-and-objectives-of-the-website-this-includes-understanding-the-target-audience-identifying-the-key-features-and-functionality-required-and-establishing-a-timeline-for-the-project-develop-a-detailed-plan-for-the-project-including-the-site-architecture-wireframes-and-design-concept-with-should-also-include-a-content-strategy-and-a-plan-for-search-engine-optimization {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 534px;
+  top: 1095px;
+  width: 755px;
+  height: 268px;
+}
+.at-begin-by-defining-the-goals-and-objectives-of-the-website-this-includes-understanding-the-target-audience-identifying-the-key-features-and-functionality-required-and-establishing-a-timeline-for-the-project-develop-a-detailed-plan-for-the-project-including-the-site-architecture-wireframes-and-design-concept-with-should-also-include-a-content-strategy-and-a-plan-for-search-engine-optimization-span {
+  color: #a9a9a9;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+}
+.at-begin-by-defining-the-goals-and-objectives-of-the-website-this-includes-understanding-the-target-audience-identifying-the-key-features-and-functionality-required-and-establishing-a-timeline-for-the-project-develop-a-detailed-plan-for-the-project-including-the-site-architecture-wireframes-and-design-concept-with-should-also-include-a-content-strategy-and-a-plan-for-search-engine-optimization-span2 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.planning {
+  color: #dedede;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 38px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+  position: absolute;
+  left: 151px;
+  top: 1141px;
+  width: 293px;
+  height: 48px;
+}
+.group-483309 {
+  position: absolute;
+  inset: 0;
+}
+.group-483308 {
+  width: 1138px;
+  height: 183px;
+  position: static;
+}
+.step-01 {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 812px;
+  width: 147px;
+  height: 26px;
+}
+.starting-with-create-a-coming-soon-page-for-your-website-why-because-it-builds-anticipation-a-coming-soon-page-generates-buzz-and-excitement-about-your-website-before-it-even-launches-this-can-be-particularly-helpful-for-new-businesses-or-startups-that-want-to-generate-interest-and-curiosity-around-their-brand {
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 535px;
+  top: 812px;
+  width: 755px;
+  height: 183px;
+}
+.starting-with-create-a-coming-soon-page-for-your-website-why-because-it-builds-anticipation-a-coming-soon-page-generates-buzz-and-excitement-about-your-website-before-it-even-launches-this-can-be-particularly-helpful-for-new-businesses-or-startups-that-want-to-generate-interest-and-curiosity-around-their-brand-span {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.starting-with-create-a-coming-soon-page-for-your-website-why-because-it-builds-anticipation-a-coming-soon-page-generates-buzz-and-excitement-about-your-website-before-it-even-launches-this-can-be-particularly-helpful-for-new-businesses-or-startups-that-want-to-generate-interest-and-curiosity-around-their-brand-span2 {
+  color: #dedede;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.starting-with-create-a-coming-soon-page-for-your-website-why-because-it-builds-anticipation-a-coming-soon-page-generates-buzz-and-excitement-about-your-website-before-it-even-launches-this-can-be-particularly-helpful-for-new-businesses-or-startups-that-want-to-generate-interest-and-curiosity-around-their-brand-span3 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.get-started {
+  color: #dedede;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 38px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+  position: absolute;
+  left: 152px;
+  top: 858px;
+  width: 293px;
+  height: 48px;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #484e53;
+  border-width: 1px 0 0 0;
+  width: 755px;
+  height: 0px;
+  position: absolute;
+  left: 535px;
+  top: 1045px;
+}
+.group-483310 {
+  position: absolute;
+  inset: 0;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #484e53;
+  border-width: 1px 0 0 0;
+  width: 755px;
+  height: 0px;
+  position: absolute;
+  left: 535px;
+  top: 1413px;
+}
+.group-483303 {
+  width: 1138px;
+  height: 560px;
+  position: static;
+}
+.step-03 {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 1463px;
+  width: 147px;
+  height: 26px;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 535px;
+  top: 1463px;
+  width: 755px;
+  height: 560px;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span {
+  color: #dedede;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span2 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span3 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span4 {
+  color: #dedede;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span5 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span6 {
+  color: #dedede;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span7 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span8 {
+  color: #dedede;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.identify-branding-elements-the-first-step-in-creating-the-visual-design-of-a-website-is-to-identify-the-client-s-branding-elements-this-includes-their-logo-color-palette-typography-and-any-other-design-elements-that-are-part-of-your-brand-identity-choose-imagery-it-s-important-to-choose-images-that-are-high-quality-relevant-to-the-content-and-consistent-with-the-brand-identity-this-can-include-photographs-illustrations-icons-and-other-graphic-elements-create-a-design-concept-that-aligns-with-the-your-goals-and-objectives-this-involves-creating-a-mockup-or-prototype-of-the-website-that-incorporates-these-elements-and-establishes-a-visual-hierarchy-for-the-content-refine-the-design-after-the-initial-design-concept-has-been-created-we-will-take-a-feedback-from-you-and-we-are-ready-to-making-some-adjustments-if-needed-to-the-layout-color-scheme-typography-or-imagery-to-better-align-with-your-goals-and-objectives-span9 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.design {
+  color: #dedede;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 38px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+  position: absolute;
+  left: 152px;
+  top: 1509px;
+  width: 293px;
+  height: 48px;
+}
+.group-483306 {
+  position: absolute;
+  inset: 0;
+}
+.line-32 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #484e53;
+  border-width: 1px 0 0 0;
+  width: 755px;
+  height: 0px;
+  position: absolute;
+  left: 535px;
+  top: 2441px;
+}
+.group-4833032 {
+  width: 1138px;
+  height: 268px;
+  position: static;
+}
+.step-05 {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 2491px;
+  width: 147px;
+  height: 26px;
+}
+.testing-conduct-thorough-testing-of-the-website-including-functional-testing-user-testing-and-performance-testing-this-ensures-that-the-website-works-as-intended-and-meets-user-expectations-launch-once-the-website-has-been-thoroughly-tested-and-approved-launch-it-to-the-public-this-includes-setting-up-hosting-domain-registration-and-any-necessary-dns-settings {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+  position: absolute;
+  left: 535px;
+  top: 2491px;
+  width: 755px;
+  height: 268px;
+}
+.launching {
+  color: #dedede;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 38px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+  position: absolute;
+  left: 152px;
+  top: 2537px;
+  width: 293px;
+  height: 48px;
+}
+.group-483305 {
+  position: absolute;
+  inset: 0;
+}
+.line-33 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #484e53;
+  border-width: 1px 0 0 0;
+  width: 755px;
+  height: 0px;
+  position: absolute;
+  left: 534px;
+  top: 2073px;
+}
+.step-04 {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 151px;
+  top: 2123px;
+  width: 147px;
+  height: 26px;
+}
+.i-will-present-a-fully-design-demo-website-with-mobile-responsive-design-and-it-will-iterate-to-get-the-visual-right-after-design-approval-we-will-develop-the-website-i-will-use-platform-like-framer-webflow-and-wix-studio-to-develop-the-website-complete-with-a-cms-content-management-system-that-will-allow-you-to-edit-manage-your-website-s-content-without-the-need-for-a-developer {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 534px;
+  top: 2123px;
+  width: 755px;
+  height: 268px;
+}
+.i-will-present-a-fully-design-demo-website-with-mobile-responsive-design-and-it-will-iterate-to-get-the-visual-right-after-design-approval-we-will-develop-the-website-i-will-use-platform-like-framer-webflow-and-wix-studio-to-develop-the-website-complete-with-a-cms-content-management-system-that-will-allow-you-to-edit-manage-your-website-s-content-without-the-need-for-a-developer-span {
+  color: #a9a9a9;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+}
+.i-will-present-a-fully-design-demo-website-with-mobile-responsive-design-and-it-will-iterate-to-get-the-visual-right-after-design-approval-we-will-develop-the-website-i-will-use-platform-like-framer-webflow-and-wix-studio-to-develop-the-website-complete-with-a-cms-content-management-system-that-will-allow-you-to-edit-manage-your-website-s-content-without-the-need-for-a-developer-span2 {
+  color: #a9a9a9;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+.development {
+  color: #dedede;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 38px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 500;
+  position: absolute;
+  left: 151px;
+  top: 2169px;
+  width: 293px;
+  height: 48px;
+}
+.group-483323 {
+  position: absolute;
+  inset: 0;
+}
+.group-483262 {
+  width: 1440px;
+  height: 361px;
+  position: static;
+}
+.group-483220 {
+  width: 1440px;
+  height: 356px;
+  position: static;
+}
+.group-483219 {
+  width: 1440px;
+  height: 356px;
+  position: static;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #484e53;
+  border-width: 1px 0 0 0;
+  height: 0px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: calc(50% - -1617.5px);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+._2024-all-rights-reserved {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  text-transform: lowercase;
+  position: absolute;
+  left: calc(50% - 589px);
+  top: calc(50% - -1664.5px);
+  width: 205px;
+  height: 26px;
+}
+.group-482959 {
+  width: 693px;
+  height: 160px;
+  position: static;
+}
+.let-s-work-together {
+  color: #dedede;
+  text-align: left;
+  font-family: "HelveticaNowDisplay-Bold", sans-serif;
+  font-size: 75px;
+  line-height: 106%;
+  letter-spacing: 0.07em;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: calc(50% - -1334.5px);
+  width: 693px;
+}
+.group-483272 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.group-483271 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.rectangle-17 {
+  background: rgba(217, 217, 217, 0);
+  border-radius: 6.7px;
+  border-style: solid;
+  border-color: var(--strock-color, #a9a9a9);
+  border-width: 1.56px;
+  width: 310px;
+  height: 76.24px;
+  position: absolute;
+  left: calc(50% - -284px);
+  top: calc(50% - -1329.5px);
+}
+.group-483267 {
+  width: 275.6px;
+  height: 40.46px;
+  position: static;
+}
+.group-59 {
+  width: 227.3px;
+  height: 40.46px;
+  position: static;
+}
+.taherkj-8-gmail-com {
+  color: #dedede;
+  text-align: justified;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24.895751953125px;
+  line-height: 149.02%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -349.9px);
+  top: calc(50% - -1348.17px);
+  width: 227.3px;
+  height: 40.46px;
+}
+.outline-brands-gmail {
+  border-radius: 6.7px;
+  width: 35.89px;
+  height: 37.34px;
+  position: absolute;
+  left: calc(50% - -301.6px);
+  top: calc(50% - -1349.73px);
+  overflow: visible;
+}
+.outline-brands-gmail2 {
+  border-radius: 6.7px;
+  width: 35.89px;
+  height: 37.34px;
+  position: absolute;
+  left: calc(50% - -301.6px);
+  top: calc(50% - -1349.73px);
+  overflow: visible;
+}
+.group-483320 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.group-483326 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.rectangle-172 {
+  background: #0055ff;
+  border-radius: 6.7px;
+  border-style: solid;
+  border-color: var(--strock-color, #a9a9a9);
+  border-width: 1.56px;
+  width: 310px;
+  height: 76.24px;
+  position: absolute;
+  left: calc(50% - -284px);
+  bottom: 238.76px;
+}
+.group-483319 {
+  width: 273.3px;
+  height: 40.46px;
+  position: static;
+}
+.follow-my-behance {
+  color: #dedede;
+  text-align: justified;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24.895751953125px;
+  line-height: 149.02%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -348px);
+  bottom: 256.54px;
+  width: 227.3px;
+  height: 40.46px;
+}
+.icons-8-behance-1 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -302px);
+  top: calc(50% - -1444.5px);
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: 1px;
+  top: 6.75px;
+  overflow: visible;
+}
+.group-483327 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  left: 1px;
+  top: 6.75px;
+  overflow: visible;
+}
+.frame-3735270 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1286px;
+  position: absolute;
+  left: calc(50% - 643px);
+  top: 40px;
+}
+.taher {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 29.209877014160156px;
+  font-weight: 700;
+  position: relative;
+  width: 91px;
+  height: 35.95px;
+}
+.taher-span {
+  color: #dedede;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 29.209877014160156px;
+  font-weight: 700;
+}
+.taher-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 29.209877014160156px;
+  font-weight: 700;
+}
+.group-483275 {
+  flex-shrink: 0;
+  width: 489px;
+  height: 32px;
+  position: static;
+}
+.frame-3735259 {
+  width: 489px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -154px);
+  top: 1.98px;
+}
+.home {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 258.55px;
+  height: 94px;
+}
+.portfolio {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 100.55px;
+  top: 0px;
+  width: 302px;
+  height: 94px;
+}
+.process {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 244.55px;
+  top: 0px;
+  width: 302px;
+  height: 94px;
+}
+.contact {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 389px;
+  top: 0.02px;
+  width: 100px;
+  height: 94px;
+}

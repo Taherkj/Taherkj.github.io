@@ -1,0 +1,340 @@
+.full-screen-menu,
+.full-screen-menu * {
+  box-sizing: border-box;
+}
+.full-screen-menu {
+  background: #0a0a0a;
+  padding: 40px 77px 40px 77px;
+  height: 979px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3735271 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1286px;
+  height: 35.95px;
+  position: absolute;
+  left: 77px;
+  top: 40px;
+}
+.taher {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 29.209877014160156px;
+  font-weight: 700;
+  position: relative;
+  width: 91px;
+  height: 35.95px;
+}
+.taher-span {
+  color: #dedede;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 29.209877014160156px;
+  font-weight: 700;
+}
+.taher-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 29.209877014160156px;
+  font-weight: 700;
+}
+.group-483275 {
+  flex-shrink: 0;
+  width: 489px;
+  height: 32px;
+  position: static;
+}
+.frame-3735259 {
+  width: 489px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -154px);
+  top: 1.98px;
+}
+.home {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 258.55px;
+  height: 94px;
+}
+.portfolio {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 100.55px;
+  top: 0px;
+  width: 302px;
+  height: 94px;
+}
+.process {
+  color: #a9a9a9;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 244.55px;
+  top: 0px;
+  width: 302px;
+  height: 94px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 388.55px;
+  top: 0px;
+  width: 400px;
+  height: 94px;
+}
+.ellipse-79 {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 77px;
+  top: 138.95px;
+  object-fit: cover;
+}
+.group-483278 {
+  position: absolute;
+  inset: 0;
+}
+.group-483282 {
+  width: 1004px;
+  height: 299px;
+  position: static;
+}
+.group-483279 {
+  width: 1004px;
+  height: 176px;
+  position: static;
+}
+.group-98 {
+  width: 237px;
+  height: 144px;
+  position: static;
+}
+.group-483280 {
+  width: 237px;
+  height: 144px;
+  position: static;
+}
+.email-taherkj-8-gmail-com {
+  color: var(--strock-color, #a9a9a9);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 592.95px;
+  width: 234px;
+  height: 26px;
+}
+.age-20 {
+  color: var(--strock-color, #a9a9a9);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 474.95px;
+  width: 147px;
+  height: 26px;
+}
+.country-bangalore {
+  color: var(--strock-color, #a9a9a9);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 510.95px;
+  width: 172px;
+  height: 26px;
+}
+.whatsapp-91-9901270086 {
+  color: var(--strock-color, #a9a9a9);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 154.02%;
+  letter-spacing: 0.025em;
+  font-weight: 400;
+  position: absolute;
+  left: 77px;
+  top: 551.95px;
+  width: 237px;
+  height: 26px;
+}
+.group-483276 {
+  width: 604px;
+  height: 94px;
+  position: static;
+}
+.group-483281 {
+  width: 604px;
+  height: 94px;
+  position: static;
+}
+.hi-i-am-taher-i-am-a-designer-based-on-bangalore {
+  color: #dedede;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 38px;
+  line-height: 115.52%;
+  letter-spacing: 0.025em;
+  font-weight: 600;
+  position: absolute;
+  left: 77px;
+  top: 351.95px;
+  width: 604px;
+  height: 94px;
+}
+.group-483273 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-17 {
+  background: rgba(217, 217, 217, 0);
+  border-radius: 6.7px;
+  border-style: solid;
+  border-color: var(--strock-color, #a9a9a9);
+  border-width: 1.56px;
+  width: 310px;
+  height: 76.24px;
+  position: absolute;
+  left: calc(50% - -333px);
+  top: calc(50% - 39.5px);
+}
+.group-483267 {
+  width: 275.6px;
+  height: 40.46px;
+  position: static;
+}
+.group-59 {
+  width: 227.3px;
+  height: 40.46px;
+  position: static;
+}
+.taherkj-8-gmail-com {
+  color: #dedede;
+  text-align: justified;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24.895751953125px;
+  line-height: 149.02%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -398.9px);
+  top: calc(50% - 20.83px);
+  width: 227.3px;
+  height: 40.46px;
+}
+.outline-brands-gmail {
+  border-radius: 6.7px;
+  width: 35.89px;
+  height: 37.34px;
+  position: absolute;
+  left: calc(50% - -350.6px);
+  top: calc(50% - 19.27px);
+  overflow: visible;
+}
+.group-483321 {
+  position: absolute;
+  inset: 0;
+}
+.group-483326 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.group-483271 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.rectangle-172 {
+  background: #0055ff;
+  border-radius: 6.7px;
+  border-style: solid;
+  border-color: var(--strock-color, #a9a9a9);
+  border-width: 1.56px;
+  width: 310px;
+  height: 76.24px;
+  position: absolute;
+  left: calc(50% - -333px);
+  bottom: 359.76px;
+}
+.group-483319 {
+  width: 273.3px;
+  height: 40.46px;
+  position: static;
+}
+.follow-my-behance {
+  color: #dedede;
+  text-align: justified;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24.895751953125px;
+  line-height: 149.02%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -397px);
+  bottom: 377.54px;
+  width: 227.3px;
+  height: 40.46px;
+}
+.icons-8-behance-1 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -351px);
+  top: calc(50% - -75.5px);
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: 1px;
+  top: 6.75px;
+  overflow: visible;
+}
+.group-483327 {
+  width: 310px;
+  height: 76.24px;
+  position: static;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  left: 1px;
+  top: 6.75px;
+  overflow: visible;
+}
